@@ -1,0 +1,8 @@
+[2022-05-30 05:14:21.466] [sharedprocess] [info] Starting worker process with pid 16410 (type: fileWatcher, window: 1).
+[2022-05-30 05:14:51.668] [sharedprocess] [info] Getting Manifest... catppuccin.catppuccin-vsc
+[2022-05-30 05:14:51.864] [sharedprocess] [info] Installing extension: catppuccin.catppuccin-vsc
+[2022-05-30 05:14:53.919] [sharedprocess] [info] Downloaded extension: catppuccin.catppuccin-vsc /home/darlan/.config/Code - OSS/CachedExtensionVSIXs/catppuccin.catppuccin-vsc-1.0.6
+[2022-05-30 05:14:53.995] [sharedprocess] [info] Extracted extension to /home/darlan/.vscode-oss/extensions/.56f49e18-f81e-4b39-a437-e6210ed28a1c: catppuccin.catppuccin-vsc
+[2022-05-30 05:14:54.001] [sharedprocess] [info] Renamed to /home/darlan/.vscode-oss/extensions/catppuccin.catppuccin-vsc-1.0.6
+[2022-05-30 05:14:54.003] [sharedprocess] [info] Extracting completed. catppuccin.catppuccin-vsc
+[2022-05-30 05:14:54.006] [sharedprocess] [info] Extension installed successfully: catppuccin.catppuccin-vsc

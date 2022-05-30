@@ -1,0 +1,10 @@
+[2022-05-30 08:04:52.882] [sharedprocess] [info] Starting worker process with pid 46620 (type: fileWatcher, window: 1).
+[2022-05-30 08:06:16.044] [sharedprocess] [info] Getting Manifest... emmanuelbeziat.vscode-great-icons
+[2022-05-30 08:06:16.403] [sharedprocess] [info] Installing extension: emmanuelbeziat.vscode-great-icons
+[2022-05-30 08:06:18.221] [sharedprocess] [info] Downloaded extension: emmanuelbeziat.vscode-great-icons /home/darlan/.config/Code - OSS/CachedExtensionVSIXs/emmanuelbeziat.vscode-great-icons-2.1.86
+[2022-05-30 08:06:18.625] [sharedprocess] [info] Extracted extension to /home/darlan/.vscode-oss/extensions/.cb4dfb54-a9fb-4d39-9d37-4f57b1131ed0: emmanuelbeziat.vscode-great-icons
+[2022-05-30 08:06:18.632] [sharedprocess] [info] Renamed to /home/darlan/.vscode-oss/extensions/emmanuelbeziat.vscode-great-icons-2.1.86
+[2022-05-30 08:06:18.635] [sharedprocess] [info] Extracting completed. emmanuelbeziat.vscode-great-icons
+[2022-05-30 08:06:18.637] [sharedprocess] [info] Extension installed successfully: emmanuelbeziat.vscode-great-icons
+[2022-05-30 12:44:22.169] [sharedprocess] [info] Worker process with pid 46620 terminated normally (type: fileWatcher, window: 1).
+[2022-05-30 12:44:24.483] [sharedprocess] [info] Starting worker process with pid 53643 (type: fileWatcher, window: 1).

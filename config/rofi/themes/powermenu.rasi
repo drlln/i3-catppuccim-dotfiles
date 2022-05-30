@@ -1,0 +1,90 @@
+configuration {
+    modi: "drun,run,window";
+    show-icons: true;
+    font: "Roboto Mono Nerd Font 12";
+    icon-theme: "Papirus-Dark";
+    window-format: "{c}";
+}
+
+@theme "catppuccin"
+
+window {
+    transparency: "real";
+
+    width: 580px;
+    height: 120px;
+    padding: 3px;
+    border: 2px;
+    border-radius: 8px;
+    border-color: @blue;
+    background-color: @bg-col;
+}
+
+mainbox {
+    border:  0;
+    padding: 0;
+    children: [listview];
+    background-color: transparent;
+}
+
+listview {
+    columns: 4;
+    layout: vertical;
+    background-color: transparent;
+}
+
+element {
+    margin: 8px;
+    padding: 10px;
+    border-radius: 8px;
+    orientation: vertical;
+}
+
+element-icon {
+    size: 48px;
+    margin: 2px;
+    horizontal-align: 0.5;
+    vertical-align: 0.5;
+    background-color: transparent;
+}
+
+element-text {
+    text-color: @fg-col;
+    horizontal-align: 0.5;
+    vertical-align: 0.5;
+    background-color: transparent;
+}
+
+element.normal.normal {
+    text-color: @fg-col;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+element.selected.normal {
+    text-color: @fg-col;
+    border-color: @fg-col2;
+    background-color: @grey;
+}
+
+element.alternate.normal {
+    text-color: @fg-col2;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+element-text.selected.normal {
+    text-color: @selected-col;
+}
+
+mode-switcher {
+    border: 0 0 0;
+}
+
+button {
+    spacing: 0;
+    text-color: @fg-col2;
+}
+
+button.selected {
+    text-color: @fg-col2;
+    background-color: @selected-col;
+}

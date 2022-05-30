@@ -1,0 +1,13 @@
+[2022-05-30 08:04:48.974] [main] [info] window#load: attempt to load window (id: 1)
+[2022-05-30 08:04:49.002] [main] [info] update#ctor - updates are disabled as there is no update URL
+[2022-05-30 08:04:49.065] [main] [info] ExtensionHostStarterWorker created
+[2022-05-30 08:04:50.868] [main] [info] window#load: window reported ready (id: 1)
+[2022-05-30 08:04:51.431] [main] [info] Starting extension host with pid 46587 (fork() took 20 ms).
+[2022-05-30 08:04:51.432] [main] [info] ExtensionHostStarterWorker.start() took 28 ms.
+[2022-05-30 12:44:22.143] [main] [info] window#load: attempt to load window (id: 1)
+[2022-05-30 12:44:22.180] [main] [info] Extension host with pid 46587 exited with code: 0, signal: null.
+[2022-05-30 12:44:24.043] [main] [info] window#load: window reported ready (id: 1)
+[2022-05-30 12:44:24.447] [main] [info] Starting extension host with pid 53642 (fork() took 13 ms).
+[2022-05-30 12:44:24.456] [main] [info] ExtensionHostStarterWorker.start() took 28 ms.
+[2022-05-30 12:51:26.310] [main] [info] Waiting for extension host with pid 53642 to exit.
+[2022-05-30 12:51:26.337] [main] [info] Extension host with pid 53642 exited with code: 0, signal: null.

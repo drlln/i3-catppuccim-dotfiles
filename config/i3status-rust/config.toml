@@ -1,0 +1,55 @@
+theme = "dracula"
+icons = "awesome5"
+
+[[block]]
+block = "focused_window"
+show_marks = "visible"
+max_width = 45
+[block.theme_overrides]
+idle_bg = "#cba6f7"
+idle_fg = "#11111b"
+
+[[block]]
+block = "music"
+player = "spotify"
+buttons = ["play", "next"]
+dynamic_width = true
+hide_when_empty = true
+max_width = 25
+[block.icons_overrides]
+music = ""
+
+[[block]]
+block = "sound"
+max_vol = 100
+[block.theme_overrides]
+idle_bg = "#f38ba8"
+idle_fg = "#11111b"
+
+[[block]]
+block = "taskwarrior"
+interval = 61 
+format = "{count} open tasks ({filter_name})"
+format_singular = "{count} open task ({filter_name})"
+format_everything_done = "nothing to do!"
+warning_threshold = 10
+critical_threshold = 20
+[block.theme_overrides]
+idle_bg = "#eba0ac"
+idle_fg = "#11111b"
+
+#[[block.filters]]
+#name = "tob4befeday"
+#filter = "+PENDING +OVERDUE or +DUETODAY"
+#[[block.filters]]
+#name = "some-project"
+#filter = "project:some-project +PENDING"
+
+[[block]]
+block = "time"
+interval = 5
+format = "%a %d/%m %R"
+[block.theme_overrides]
+idle_bg = "#74c7ec"
+idle_fg = "#11111b"
+

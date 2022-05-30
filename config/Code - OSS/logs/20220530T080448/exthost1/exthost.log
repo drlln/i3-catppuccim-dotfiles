@@ -1,0 +1,27 @@
+[2022-05-30 08:04:52.505] [exthost] [info] Extension host with pid 46587 started
+[2022-05-30 08:04:52.506] [exthost] [info] Skipping acquiring lock for /home/darlan/.config/Code - OSS/User/workspaceStorage/b8dd48db47c76c675d3e832e960c9029.
+[2022-05-30 08:04:52.644] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-05-30 08:04:52.649] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2022-05-30 08:04:52.652] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-05-30 08:04:52.732] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-05-30 08:04:52.742] [exthost] [info] Eager extensions activated
+[2022-05-30 08:04:52.748] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-30 08:04:52.756] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-30 08:04:54.821] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+[2022-05-30 08:06:22.800] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-05-30 08:06:22.805] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-05-30 08:06:22.829] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-05-30 12:44:22.142] [exthost] [info] Extension host terminating: renderer closed the socket
+[2022-05-30 12:44:22.160] [exthost] [info] Extension host with pid 46587 exiting with code 0
+[2022-05-30 12:44:25.660] [exthost] [info] Extension host with pid 53642 started
+[2022-05-30 12:44:25.661] [exthost] [info] Skipping acquiring lock for /home/darlan/.config/Code - OSS/User/workspaceStorage/dbf3eca8c91b6ef482dcca5a0cbdfbad.
+[2022-05-30 12:44:25.916] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-05-30 12:44:25.923] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2022-05-30 12:44:25.927] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-05-30 12:44:25.941] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-05-30 12:44:25.961] [exthost] [info] Eager extensions activated
+[2022-05-30 12:44:25.966] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-30 12:44:25.972] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-30 12:44:28.201] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+[2022-05-30 12:51:26.292] [exthost] [info] Extension host terminating: renderer closed the socket
+[2022-05-30 12:51:26.307] [exthost] [info] Extension host with pid 53642 exiting with code 0
